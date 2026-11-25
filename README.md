@@ -1,0 +1,1 @@
+simple counter application using raylib library. learning GUI in c. 
